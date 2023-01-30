@@ -1,0 +1,14 @@
+{
+  "_output_dir": "/home/giangblackk/vbsl",
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Giang Ngo",
+  "copyright_year": "2023",
+  "development_status": "Development Status :: 2 - Pre-Alpha",
+  "email": "giangblackk@gmail.com",
+  "friendly_name": "Variational Bayes Synthetic Likelihood",
+  "github_user": "giangblackk",
+  "license": "GPL-3.0",
+  "package_name": "py-vbsl",
+  "project_name": "Variational-Bayes-Synthetic-Likelihood",
+  "version": "0.0.1"
+}
