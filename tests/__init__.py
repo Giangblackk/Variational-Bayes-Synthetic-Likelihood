@@ -1,1 +1,1 @@
-"""Test suite for the py-vbsl package."""
+"""Test suite for the py_vbsl package."""

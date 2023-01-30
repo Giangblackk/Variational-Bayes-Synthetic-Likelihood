@@ -9,7 +9,7 @@ homepage = "https://github.com/giangblackk/Variational-Bayes-Synthetic-Likelihoo
 repository = "https://github.com/giangblackk/Variational-Bayes-Synthetic-Likelihood"
 documentation = "https://Variational-Bayes-Synthetic-Likelihood.readthedocs.io"
 packages = [
-    { include = "py-vbsl", from = "src" },
+    { include = "py_vbsl", from = "src" },
 ]
 classifiers = [
     "Development Status :: 2 - Pre-Alpha",
@@ -49,7 +49,7 @@ xdoctest = {extras = ["colors"], version = ">=0.15.10"}
 myst-parser = {version = ">=0.16.1"}
 
 [tool.poetry.scripts]
-Variational-Bayes-Synthetic-Likelihood = "py-vbsl.__main__:main"
+Variational-Bayes-Synthetic-Likelihood = "py_vbsl.__main__:main"
 
 [tool.coverage.paths]
 source = ["src", "*/site-packages"]
@@ -57,7 +57,7 @@ tests = ["tests", "*/tests"]
 
 [tool.coverage.run]
 branch = true
-source = ["py-vbsl", "tests"]
+source = ["py_vbsl", "tests"]
 
 [tool.coverage.report]
 show_missing = true

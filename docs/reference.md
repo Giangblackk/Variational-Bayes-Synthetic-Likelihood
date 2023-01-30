@@ -1,8 +1,8 @@
 # Reference
 
-## py-vbsl
+## py_vbsl
 
 ```{eval-rst}
-.. automodule:: py-vbsl
+.. automodule:: py_vbsl
    :members:
 ```

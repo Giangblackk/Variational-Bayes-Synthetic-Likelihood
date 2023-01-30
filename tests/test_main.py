@@ -2,7 +2,7 @@
 import pytest
 from click.testing import CliRunner
 
-from py-vbsl import __main__
+from py_vbsl import __main__
 
 
 @pytest.fixture

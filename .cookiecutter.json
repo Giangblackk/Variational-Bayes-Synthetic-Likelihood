@@ -8,7 +8,7 @@
   "friendly_name": "Variational Bayes Synthetic Likelihood",
   "github_user": "giangblackk",
   "license": "GPL-3.0",
-  "package_name": "py-vbsl",
+  "package_name": "py_vbsl",
   "project_name": "Variational-Bayes-Synthetic-Likelihood",
   "version": "0.0.1"
 }
