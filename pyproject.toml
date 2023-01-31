@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "Variational-Bayes-Synthetic-Likelihood"
-version = "0.0.1"
+version = "0.0.2"
 description = "Variational Bayes Synthetic Likelihood"
 authors = ["Giang Ngo <giangblackk@gmail.com>"]
 license = "GPL-3.0"
